@@ -1,0 +1,3 @@
+pepe,18,1.75,mec
+juan,22,1.68,pesao
+pedro,16,1.5,gordo
